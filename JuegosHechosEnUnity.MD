@@ -1,9 +1,9 @@
 # **Importante** : 
-## Los juegos fueron realizados usando Unity y el lenguaje de programación C#.
+### Los juegos fueron realizados usando Unity y el lenguaje de programación C#.
 
-## Sigo desarrollando y aprendiendo más sobre el desarrollo de juegos 2D, así que pronto subiré más juegos. 
+### Sigo desarrollando y aprendiendo más sobre el desarrollo de juegos 2D, así que pronto subiré más juegos. 
 
-## En varios de los scripts se emplean conceptos cómo tipos de datos, arrays, funciones y por ultimo manejo de programación orientada a objetos.
+### En varios de los scripts se emplean conceptos cómo tipos de datos, arrays, funciones y por ultimo manejo de programación orientada a objetos.
 
 ## **Lista de juegos de PC** : 
 
