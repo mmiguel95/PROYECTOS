@@ -18,3 +18,7 @@ La música utilizada es de Alien Shooter 2. **Descarga el juego presionando [aqu
 
 - ### **Caught**  
 Es un juego arcade en el que debes encontrar la salida del laberinto. La cantidad de vidas que posees es tres. También cuenta con un temporizador. Así que deberás apresurarte. **Descarga el juego presionando [aquí](https://mega.nz/file/PG51UDBQ#XrOsbwrsE9uzSamWQpTB36TnLd5oja9DlPb9LQXZT6I).**
+
+- ### **Rush It**  
+Se puede atribuir su similitud con los juegos de family por causa de los sprites. Aqui tienes un controlador de vidas y monedas, trampas que van cambiando conforme avanzas de nivel. Si consigues una determianda cantidad de monedas entonces se recibe una vida. 
+En el juego utilicé sound tracks de juegos como shatterhand, super contra. Es autoría de KONAMI **Descarga el juego presionando [aquí](https://mega.nz/file/PC4ADSxD#eWEc6ZaPKFZqExPNegTSTjR6MXh6iZxibeu8MrjlLzg).**
