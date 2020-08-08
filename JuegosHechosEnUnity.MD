@@ -21,4 +21,4 @@ Es un juego arcade en el que debes encontrar la salida del laberinto. La cantida
 
 - ### **Rush It**  
 Se puede atribuir su similitud con los juegos de family por causa de los sprites. Aqui tienes un controlador de vidas y monedas, trampas que van cambiando conforme avanzas de nivel. Si consigues una determianda cantidad de monedas entonces se recibe una vida. 
-En el juego utilicé sound tracks de juegos como shatterhand, super contra. Es autoría de KONAMI **Descarga el juego presionando [aquí](https://mega.nz/file/PC4ADSxD#eWEc6ZaPKFZqExPNegTSTjR6MXh6iZxibeu8MrjlLzg).**
+En el juego utilicé sound tracks de juegos como shatterhand, super contra. Es autoría de KONAMI **Descarga el juego presionando [aquí](https://mega.nz/file/HGR2mCIJ#zPR2SHLScd5A_CqDAgsdpLQ0ylNt9jLPiG4wJWWMPz4).**
