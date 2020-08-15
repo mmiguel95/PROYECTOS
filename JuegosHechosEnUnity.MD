@@ -9,7 +9,7 @@
 
 - ### **Crazy Ball**  
  Es un juego parecido al clásico brick breaker, los sound tracks no son de mi autoría, me encargue de todo el juego, scripts, diseño de niveles, UI. 
-Las imágenes del menu, gameover, victoria las hice usando Photoshop. El juego consta de cinco niveles en los cuales deberás destruir todos los bloques y por supuesto evitar que la bola toque el suelo. Posees 8 vidas y un temporizadorm, así que debes apresurarte. **Descarga el juego presionando [aquí](https://mega.nz/file/uCAnHQBa#VVlmKgOHkkDCIAFqLfnVqAFO5-FRsvyP3RYPmm8kSPw).** 
+Las imágenes del menu, gameover, victoria las hice usando Photoshop. El juego consta de cinco niveles en los cuales deberás destruir todos los bloques y por supuesto evitar que la bola toque el suelo. Posees 8 vidas y un temporizadorm, así que debes apresurarte. **Descarga el juego presionando [aquí](https://mega.nz/file/PX4RUZia#snIbKpBmzCODoBurDFHIBS3r_tj_yZOtyI0NbKeKTaQ).** 
 
 - ### **Infinite Fire**  
 Es un juego shooter 2D, el objetivo es lograr alcanzar los puntos necesarios para pasar al siguiente nivel. Hay 3 misiones en total.
